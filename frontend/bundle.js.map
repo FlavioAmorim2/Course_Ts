@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":";;;;;AAAa;AACb","sources":["webpack://cursotypescript/./src/A0018-webPack/index.ts"],"sourcesContent":["\"use strict\";\nconsole.log('ola mundo!');\n"],"names":[],"sourceRoot":""}
